@@ -1,5 +1,5 @@
 <?php
-namespace yigidinPaketi35/yigidinPaketininİsmi35;
+namespace paketdepo12/paketdepo21;
 
 use Illuminate\Database\Eloquent\Model;
 
